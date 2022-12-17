@@ -1,5 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beescuit9510&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beescuit9510&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beescuit9510&show_icons=true&count_private=true" height="192px"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beescuit9510&langs_count=10&show_icons=true&locale=en&layout=compact" alt="7oSkaaa" height="192px"/>
 
 - **LANGUAGES** :
 
