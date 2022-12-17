@@ -2,11 +2,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beescuit9510&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
 
 - **Languages** :
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
+![Python](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
 ![node](https://img.shields.io/badge/node?style=for-the-badge&logo=node&logoColor=white)
-![React](https://img.shields.io/badge/node?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
