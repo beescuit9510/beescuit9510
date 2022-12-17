@@ -1,7 +1,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beescuit9510&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beescuit9510&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
 
-- **Languages**:
+- **Languages** :
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
