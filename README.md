@@ -1,5 +1,31 @@
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beescuit9510&show_icons=true&count_private=true" height="192px"/></a>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Yun!+👋🐝🇰🇷🙀🍕🌈✨;I'm+a+Front+End+Developer;I'm+a+Full+Stack+Developer)
+## About 🐝
+
+<h3 align="center">A passionate Front End/Full Stack Developer.</h3>
+
+<br>
+
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
+### I am a Front-End/Full-Stack Developer
+- Full-stack developer with proven experience using a range of languages and technologies to create high quality features.
+- Effective communicator with a friendly approach to managing professional relationships.
+- Organized and detail-oriented, committed to producing excellent code.
+- Dedicated to learning new technologies, driven by the satisfaction of solving problems.
+
+
+
+
+## Github Stats
+
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beescuit9510">
+<img alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beescuit9510&show_icons=true&count_private=true" height="192px"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beescuit9510&langs_count=10&show_icons=true&locale=en&layout=compact" alt="7oSkaaa" height="192px"/>
+
+
+
+## Tech Stack
 
 - **LANGUAGES** :
 
