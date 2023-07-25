@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Yun!+👋🐝🇰🇷🙀🍕🌈✨;I'm+a+Front+End+Developer;I'm+a+Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Bee!+👋🐝🇰🇷🙀🍕🌈✨;I'm+a+Front+End+Developer;I'm+a+Full+Stack+Developer)
 ## About 🐝
 
 <h3 align="center">A passionate Front End/Full Stack Developer.</h3>
@@ -27,6 +27,23 @@
 
 ## Tech Stack
 
+
+#### Languages
+<p><img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/></p>
+
+#### Front-End
+<p><img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Recoil-white?style=flat&logo=Recoil&logoColor"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Next-white?style=flat&logo=nextdotjs&logoColor=black"/>
+</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-white?style=flat&logo=Tailwind-CSS&logoColor"/></p>
+
+#### Back-End
+<p><img src="https://img.shields.io/badge/Node.js-white?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=SpringBoot&logoColor"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/></p>
+
+#### DevOps
+<p><img src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AWS-white?style=flat&logo=amazonaws&logoColor=339933"/>
+</p>
+
+<!-- 
 - **LANGUAGES** :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +56,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-
+--!>
 
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
