@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" margin-top="20px" height="270px" alt="GIF" style="border-radius:7px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### I am a Front-End/Full-Stack Developer
 - Having proven experience using a range of languages and technologies to create high quality features
