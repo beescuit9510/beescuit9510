@@ -1,17 +1,19 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Bee!+👋🐝🇰🇷🙀🍕🌈✨;I'm+a+Front+End+Developer;I'm+a+Full+Stack+Developer)
 ## About 🐝
 
-<h3 align="center">A passionate Front End/Full Stack Developer.</h3>
+<h3 align="center">A passionate Front End/Full Stack Developer</h3>
+<!-- <h4 align="center">with proven experience using a range of languages and technologies to create high quality features</h2> -->
 
 <br>
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### I am a Front-End/Full-Stack Developer
-- Full-stack developer with proven experience using a range of languages and technologies to create high quality features.
+- Having proven experience using a range of languages and technologies to create high quality features
 - Effective communicator with a friendly approach to managing professional relationships.
 - Organized and detail-oriented, committed to producing excellent code.
 - Dedicated to learning new technologies, driven by the satisfaction of solving problems.
+- My passion for IT stems from an ongoing interest in learning new technologies and the satisfaction of solving problems.
 
 
 
