@@ -1,6 +1,13 @@
+<div align="center">
+ 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Bee!+👋🐝🇰🇷🙀🍕🌈✨;I'm+a+Front+End+Developer;I'm+a+Full+Stack+Developer)
-## About 🐝
 
+</div>
+
+<div align="center">
+ 
+## About 🐝
+</div>
 <h3 align="center">A passionate Front End/Full Stack Developer</h3>
 <!-- <h4 align="center">with proven experience using a range of languages and technologies to create high quality features</h2> -->
 
@@ -17,17 +24,18 @@
 
 
 
+<div align="center">
 
 ## Github Stats 📊
 
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beescuit9510">
-<img alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beescuit9510&show_icons=true&count_private=true" height="192px"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beescuit9510&langs_count=10&show_icons=true&locale=en&layout=compact" alt="7oSkaaa" height="192px"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beescuit9510"><br><br>
+<img alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beescuit9510&show_icons=true&count_private=true"/></a><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beescuit9510&langs_count=10&show_icons=true&locale=en&layout=compact" alt="7oSkaaa"/><br><br>
 
 
 
-## Tech Stack 🔧🪓🛠️⚙️
+## ⚙️🛠️ Tech Stack 🪓
 
 
 ### Languages
@@ -77,3 +85,5 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  -->
+
+</div>
