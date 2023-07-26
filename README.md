@@ -39,7 +39,7 @@
 
 
 ### Languages
-<p><img height="27rem" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/></p>
+<p><img height="27rem" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/></p>
 
 ### Front-End
 <p><img height="27rem"  src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Recoil-white?style=flat&logo=Recoil&logoColor"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Next-white?style=flat&logo=nextdotjs&logoColor=black"/>
