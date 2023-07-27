@@ -8,6 +8,7 @@
  
 # About 🐝
 </div>
+
 <h3 align="center">A passionate Front End/Full Stack Developer</h3>
 <!-- <h4 align="center">with proven experience using a range of languages and technologies to create high quality features</h2> -->
 
@@ -29,22 +30,44 @@
 # Github Stats 📊
 
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beescuit9510"><br><br>
-<img alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beescuit9510&show_icons=true&count_private=true"/></a><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beescuit9510&langs_count=10&show_icons=true&locale=en&layout=compact" alt="7oSkaaa"/><br><br>
 
-
+<div>
+<img height="200rem" alt="beescuit9510's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=beescuit9510"/>
+<img height="200rem"alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=beescuit9510&langs_count=10&show_icons=true&locale=en&layout=donut"/>
+</div>
+<!-- <img alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beescuit9510&show_icons=true&count_private=true"/> -->
 
 # ⚙️🛠️ Tech Stack 🪓
 
 
 ### Languages
-<p><img height="27rem" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/></p>
+<p>
+ <img height="27rem" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+ &nbsp;&nbsp;
+ <img height="27rem"  src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ &nbsp;&nbsp;
+ <img height="27rem"  src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
+</p>
 
 ### Front-End
-<p><img height="27rem"  src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Recoil-white?style=flat&logo=Recoil&logoColor"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Next-white?style=flat&logo=nextdotjs&logoColor=black"/>
+<p>
+ <img height="27rem"  src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
+ &nbsp;&nbsp;
+ <img height="27rem"  src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/>
+ &nbsp;&nbsp;
+ <img height="27rem"  src="https://img.shields.io/badge/Recoil-white?style=flat&logo=Recoil&logoColor"/>
+ &nbsp;&nbsp;
+ <img height="27rem"  src="https://img.shields.io/badge/Next-white?style=flat&logo=nextdotjs&logoColor=black"/>
 </p>
-<p><img height="27rem"  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/TailwindCSS-white?style=flat&logo=Tailwind-CSS&logoColor"/></p>
+<p>
+ <img height="27rem"  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+ &nbsp;&nbsp;
+ <img height="27rem"  src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+ &nbsp;&nbsp;
+ <img height="27rem"  src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+ &nbsp;&nbsp;
+ <img height="27rem"  src="https://img.shields.io/badge/TailwindCSS-white?style=flat&logo=Tailwind-CSS&logoColor"/>
+</p>
 
 ### Back-End
 <p><img height="27rem"  src="https://img.shields.io/badge/Node.js-white?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=SpringBoot&logoColor"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/></p>
