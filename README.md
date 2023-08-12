@@ -1,6 +1,6 @@
 <div align="center">
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=45&height=80&width=700&center=true&vCenter=true&lines=Hey!+It's+Bee!+👋🐝🇰🇷🙀🍕🌈✨;I'm+a+Front+End+Developer;I'm+a+Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=45&height=80&width=700&center=true&vCenter=true&lines=Hey!+It's+Bee!;I'm+a+Front+End+Developer;I'm+a+Full+Stack+Developer)
 
 </div>
 
