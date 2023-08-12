@@ -40,7 +40,6 @@
 # ⚙️🛠️ Tech Stack 🪓
 
 
-### Languages
 <p>
  <img height="27rem" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
  &nbsp;&nbsp;
@@ -49,7 +48,6 @@
  <img height="27rem"  src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
 </p>
 
-### Front-End
 <p>
  <img height="27rem"  src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
  &nbsp;&nbsp;
@@ -69,10 +67,8 @@
  <img height="27rem"  src="https://img.shields.io/badge/TailwindCSS-white?style=flat&logo=Tailwind-CSS&logoColor"/>
 </p>
 
-### Back-End
 <p><img height="27rem"  src="https://img.shields.io/badge/Node.js-white?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=SpringBoot&logoColor"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/></p>
 
-### DevOps
 <p><img height="27rem"  src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/AWS-white?style=flat&logo=amazonaws&logoColor=339933"/>
 </p>
 
