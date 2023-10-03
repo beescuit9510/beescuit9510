@@ -6,7 +6,7 @@
 
 <div align="center">
  
-# About 🐝
+## About 🐝
 </div>
 
 <h3 align="center">A passionate Front End/Full Stack Developer</h3>
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-# Github Stats 📊
+## Github Stats 📊
 
 <br>
 
@@ -37,7 +37,7 @@
 </div>
 <!-- <img alt="beescuit9510's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beescuit9510&show_icons=true&count_private=true"/> -->
 
-# ⚙️🛠️ Tech Stack 🪓
+## ⚙️🛠️ Tech Stack 🪓
 
 
 <p>
@@ -51,25 +51,29 @@
 <p>
  <img height="27rem"  src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
  &nbsp;&nbsp;
- <img height="27rem"  src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/>
- &nbsp;&nbsp;
- <img height="27rem"  src="https://img.shields.io/badge/Recoil-white?style=flat&logo=Recoil&logoColor"/>
- &nbsp;&nbsp;
- <img height="27rem"  src="https://img.shields.io/badge/Next-white?style=flat&logo=nextdotjs&logoColor=black"/>
-</p>
-<p>
  <img height="27rem"  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
  &nbsp;&nbsp;
  <img height="27rem"  src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
  &nbsp;&nbsp;
- <img height="27rem"  src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
- &nbsp;&nbsp;
  <img height="27rem"  src="https://img.shields.io/badge/TailwindCSS-white?style=flat&logo=Tailwind-CSS&logoColor"/>
+<!--  <img height="27rem"  src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/> -->
+<!--  <img height="27rem"  src="https://img.shields.io/badge/Recoil-white?style=flat&logo=Recoil&logoColor"/> -->
+<!--  <img height="27rem"  src="https://img.shields.io/badge/Next-white?style=flat&logo=nextdotjs&logoColor=black"/> -->
+</p>
+<p>
+<!--  <img height="27rem"  src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/> -->
 </p>
 
-<p><img height="27rem"  src="https://img.shields.io/badge/Node.js-white?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=SpringBoot&logoColor"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/></p>
+<p>
+<img height="27rem"  src="https://img.shields.io/badge/Node.js-white?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;
+<!-- <img height="27rem"  src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=SpringBoot&logoColor"/>&nbsp;&nbsp; -->
+<img height="27rem"  src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
+<!-- <img height="27rem"  src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/> -->
+</p>
 
-<p><img height="27rem"  src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor"/>&nbsp;&nbsp;<img height="27rem"  src="https://img.shields.io/badge/AWS-white?style=flat&logo=amazonaws&logoColor=339933"/>
+<p>
+<!-- <img height="27rem"  src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor"/>&nbsp;&nbsp; -->
+<!-- <img height="27rem"  src="https://img.shields.io/badge/AWS-white?style=flat&logo=amazonaws&logoColor=339933"/> -->
 </p>
 
 <!-- 
