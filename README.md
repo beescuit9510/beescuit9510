@@ -2,7 +2,7 @@
 
 I'm from 🇰🇷, living in Seoul now
 
-I adore NodeJS and JavaScript
+I **LOVE** JavaScript and React
 
 # ⚡️Favorite languages and tools
 
