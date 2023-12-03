@@ -2,7 +2,7 @@
 
 I'm from 🇰🇷, living in Seoul now
 
-I **LOVE** JavaScript and React
+I **LOVE** JavaScript
 
 # About Me
 - Effective communicator with a friendly approach to managing professional relationships.
