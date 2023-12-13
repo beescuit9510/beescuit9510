@@ -1,9 +1,3 @@
-# I'm Bee
-
-I'm from 🇰🇷, living in Seoul now
-
-I **LOVE** JavaScript
-
 # About Me
 - Effective communicator with a friendly approach to managing professional relationships.
 - Organized and detail-oriented, committed to producing excellent code.
