@@ -17,7 +17,7 @@
 
 <div align="center">
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=45&height=80&width=700&center=true&vCenter=true&lines=Hey!+fellow+developers!;I'm+a+Java+Developer!;I'm+a+JS+Developer!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=45&height=80&width=700&center=true&vCenter=true&lines=Hey!+fellow+developers!;I'm+a+Software+Developer!;)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" style="border-radius:7px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-### I am a Developer
+### I am a Software Developer
 - Having proven experience using a range of languages and technologies to create high quality features
 - Effective communicator with a friendly approach to managing professional relationships.
 - Organized and detail-oriented, committed to producing excellent code.
